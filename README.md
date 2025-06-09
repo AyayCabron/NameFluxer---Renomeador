@@ -100,5 +100,5 @@ Se você encontrar algum bug ou tiver sugestões, por favor, abra uma issue no G
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 📞 Contato
-Para dúvidas ou informações adicionais, você pode entrar em contato com [Vinicius Silva /vinicius.cloudfy@gmail.com].
+Para dúvidas ou informações adicionais, você pode entrar em contato com Vinicius Silva - vinicius.cloudfy@gmail.com
 
